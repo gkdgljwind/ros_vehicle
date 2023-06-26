@@ -1,0 +1,8 @@
+prefix=/home/tianbot/tianbot_mini_ws/devel
+
+Name: map_server
+Description: Description of map_server
+Version: 1.16.2
+Cflags: -I/home/tianbot/tianbot_mini_ws/src/ros_nav/navigation/map_server/include
+Libs: -L${prefix}/lib -lmap_server_image_loader
+Requires: roscpp nav_msgs tf2

@@ -1,0 +1,8 @@
+prefix=/home/tianbot/tianbot_mini_ws/devel
+
+Name: sample_planner
+Description: Description of sample_planner
+Version: 0.0.0
+Cflags: -I/home/tianbot/tianbot_mini_ws/src/ros_motion_planning/src/planner/global_planner/sample_planner/include
+Libs: -L${prefix}/lib 
+Requires: 
