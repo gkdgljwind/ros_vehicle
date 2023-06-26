@@ -1,0 +1,8 @@
+prefix=/home/tianbot/my_tianbot_ws/devel
+
+Name: teleop
+Description: Description of teleop
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

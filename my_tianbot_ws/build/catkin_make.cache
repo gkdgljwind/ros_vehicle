@@ -1,0 +1,2 @@
+my_tianbot
+-DCATKIN_DEVEL_PREFIX=/home/tianbot/my_tianbot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/tianbot/my_tianbot_ws/install -G Unix Makefiles

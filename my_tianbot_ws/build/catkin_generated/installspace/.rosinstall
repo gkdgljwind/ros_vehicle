@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/tianbot/my_tianbot_ws/install/setup.sh
